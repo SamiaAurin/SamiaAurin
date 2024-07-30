@@ -11,7 +11,7 @@
 
 - 📄 Know about my experiences [https://aurin-03.github.io/SamiaAurin/images/SyedaSamiaSultana.pdf](https://aurin-03.github.io/SamiaAurin/images/SyedaSamiaSultana.pdf)
 
-- <3 Love to do **Dancing , Gardening**
+- <3  **Dancing , Gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
