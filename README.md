@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiaaurin&label=Profile%20views&color=0e75b6&style=flat" alt="samiaaurin" /> </p>
 
-- <img src="https://images.app.goo.gl/ByQjTkGzJJNujoY37" alt="mern"> I’m currently learning **MERN Stack Development**
+<img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MERN_Stack.jpg" alt="mern">
+
+- <img src="https://www.simplilearn.com/ice9/free_resources_article_thumb/MERN_Stack.jpg" alt="mern"> I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://aurin-03.github.io/SamiaAurin/](https://aurin-03.github.io/SamiaAurin/)
 
