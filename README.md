@@ -30,7 +30,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiaaurin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=algolia&hide_border=true" height="180" alt="languages graph" style="margin: 10px; border-radius: 10px; border: 3px solid rgba(255, 255, 255, 0.7); box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);" />
   
   <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiaaurin&theme=algolia&hide_border=true" height="180" alt="streak graph" style="margin: 10px; border-radius: 10px; border: 3px solid rgba(255, 255, 255, 0.7); box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiaaurin&theme=blue-green&hide_border=true" height="180" alt="streak graph" style="margin: 10px; border-radius: 10px; border: 3px solid rgba(255, 255, 255, 0.7); box-shadow: 0 0 10px rgba(255, 255, 255, 0.5);" />
 </div>
 
 
