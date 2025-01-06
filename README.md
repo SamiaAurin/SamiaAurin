@@ -25,10 +25,10 @@
 <!----       Stats  -->
 <div align="center" style="background-color: #36454f; color: #cccccc; padding: 20px; border-radius: 10px;">
   <!-- GitHub Profile Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=samiaaurin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true" height="180" alt="stats graph" style="margin: 10px; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samiaaurin&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=algolia&locale=en&hide_border=true" height="180" alt="stats graph" style="margin: 10px; border-radius: 10px;" />
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiaaurin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=radical&hide_border=true" height="180" alt="languages graph" style="margin: 10px; border-radius: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=samiaaurin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=algolia&hide_border=true" height="180" alt="languages graph" style="margin: 10px; border-radius: 10px;" />
   
   <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiaaurin&theme=radical&hide_border=true" height="180" alt="streak graph" style="margin: 10px; border-radius: 10px;" />
