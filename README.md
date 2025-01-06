@@ -32,3 +32,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiaaurin&theme=radical&hide_border=true" height="180" alt="streak graph" style="margin: 10px; border-radius: 10px;" />
 </div>
 
+![Snake animation](https://github.com/samiaaurin/samiaaurin/blob/output/snake.svg)
