@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samiaaurin&label=Profile%20views&color=0e75b6&style=flat" alt="samiaaurin" /> </p>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- <img src="https://images.app.goo.gl/ByQjTkGzJJNujoY37" alt="mern"> I’m currently learning **MERN Stack Development**
 
 - 👨‍💻 All of my projects are available at [https://aurin-03.github.io/SamiaAurin/](https://aurin-03.github.io/SamiaAurin/)
 
-- 📫 How to reach me **aurinsamia@gmail.com**
+- 📧 How to reach me **aurinsamia@gmail.com**
 
 - 📄 Know about my experiences [https://aurin-03.github.io/SamiaAurin/images/SyedaSamiaSultana.pdf](https://aurin-03.github.io/SamiaAurin/images/SyedaSamiaSultana.pdf)
 
-- <3  **Dancing , Gardening**
+- ❤️  **Dancing , Gardening**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
