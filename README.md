@@ -32,4 +32,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=samiaaurin&theme=radical&hide_border=true" height="180" alt="streak graph" style="margin: 10px; border-radius: 10px;" />
 </div>
 
-![Snake animation](https://github.com/samiaaurin/samiaaurin/blob/output/snake.svg)
+<!-- ![Snake animation](https://github.com/samiaaurin/samiaaurin/blob/output/snake.svg) -->
+
+<hr>
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Muntasir-Ayan/Muntasir-Ayan/output/github-contribution-grid-snake-dark.svg?cache-bust=1"/>
+</div>
+<hr/>
