@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Syeda Samia Sultana</h1>
 <h3 align="center">Eager to contribute innovative solutions and bring creativity to the tech world. A quick learner, team player, and aspiring professional ready to embark on a dynamic career in the field of technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=samiaaurin&label=Profile%20views&color=0e75b6&style=flat" alt="samiaaurin" /> </p>
 
 
 - <img src="https://cdn.iconscout.com/icon/free/png-256/mern-1175070.png" alt="mern" height="15" width="15"> I’m currently learning **MERN Stack Development**
